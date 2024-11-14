@@ -9,7 +9,7 @@
 	 margin: 20px;
 }
  img {
-	 max-height: 150px;
+	 max-height: 500px;
 	 margin: auto;
 	 display: inline-block;
 }
@@ -19,7 +19,7 @@
 }
  .card {
 	 display: inline-block;
-	 width: 400 px;
+	 width: 600 px;
 	 padding: 1em;
 	 border-radius: 15px;
 	 margin: 10px;
